@@ -13,17 +13,11 @@ The focus is on:
     
     BI-ready Gold layer design
 🏗️ Architecture
-Azure Data Lake Storage Gen2
-        |
-     Bronze
-        |
-     Silver
-        |
-     Gold (Delta Lake)
+Azure Data Lake Storage Gen2 -> Bronze -> Silver -> Gold (Delta Lake)
 
 🔧 Tech Stack
 
-Azure Data Lake Storage Gen2 (ADLS)
+    Azure Data Lake Storage Gen2 (ADLS)
 
     Azure Databricks
 
