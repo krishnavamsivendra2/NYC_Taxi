@@ -70,9 +70,10 @@ The focus is on:
 
     Integration can be achieved via:
 
-    Databricks SQL
+        Databricks SQL
 
-    Or curated Parquet exports (if required)
+        Or curated Parquet exports (if required)
+    
 🧠 Key Learnings
 
     Real-world schema handling and evolution
@@ -81,7 +82,7 @@ The focus is on:
 
     Practical understanding of:
 
-    Hive Metastore vs Unity Catalog
+        Hive Metastore vs Unity Catalog
 
         Platform constraints in personal environments
     
