@@ -39,7 +39,7 @@ The focus is on:
     Stored in ADLS Gen2
 🥈 Silver Layer
 
-      Data cleansing and standardization
+    Data cleansing and standardization
 
     Handling:
 
